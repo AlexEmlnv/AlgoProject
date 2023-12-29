@@ -1,7 +1,5 @@
-package org.example.easy;
+package org.example.my_task.m01_stones_jewerly;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 public class StonesAndJewerlyApp {

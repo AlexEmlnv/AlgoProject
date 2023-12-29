@@ -1,4 +1,4 @@
-package org.example.easy;
+package org.example.my_task.m02_remove_duplicates;
 
 import java.util.*;
 

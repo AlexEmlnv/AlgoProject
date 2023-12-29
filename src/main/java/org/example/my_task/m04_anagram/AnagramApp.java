@@ -1,4 +1,4 @@
-package org.example.easy;
+package org.example.my_task.m04_anagram;
 
 import java.util.Arrays;
 import java.util.Scanner;

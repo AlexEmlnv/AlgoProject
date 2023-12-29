@@ -1,4 +1,4 @@
-package org.example.easy;
+package org.example.my_task.m03_consec_units;
 
 import java.util.Scanner;
 
