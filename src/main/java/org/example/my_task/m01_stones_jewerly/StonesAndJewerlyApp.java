@@ -12,6 +12,7 @@ public class StonesAndJewerlyApp {
         String jewels = scanner.nextLine();
 
         // бежим по драгоценностям и смотрим не камешек ли это?
+        // Сложность O(n*n)
         int res = 0;
         for (int i = 0; i < jewels.length(); i++) {
             char ch = jewels.charAt(i);
