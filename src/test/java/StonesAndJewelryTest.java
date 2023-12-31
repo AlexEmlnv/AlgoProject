@@ -6,7 +6,7 @@ public class StonesAndJewelryTest {
     @Test
     public void testGemStonesCount() {
         StonesAndJewelry stonesAndJewelry = new StonesAndJewelry();
-        int n = stonesAndJewelry.gemStonesCount("ab","aadddfffbbhhaa");
+        int n = stonesAndJewelry.calculateJewelry("ab","aadddfffbbhhaa");
         Assert.assertEquals(6, n);
     }
 }
