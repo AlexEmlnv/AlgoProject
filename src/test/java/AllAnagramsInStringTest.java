@@ -11,7 +11,7 @@ public class AllAnagramsInStringTest {
     public void testFindAllAnagramsWithMiddleCase() {
         AllAnagramsInString anagram = new AllAnagramsInString();
         List<Integer> actual = anagram.findAllAnagrams("cbaebabacd", "abc");
-        List<Integer> expected = Arrays.asList(0, 6);;
+        List<Integer> expected = Arrays.asList(0, 6);
         Assert.assertEquals(expected, actual);
     }
 
