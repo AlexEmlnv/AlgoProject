@@ -1,6 +1,5 @@
 package org.example.leetcode_task.l02_hash_table.l022_two_sum;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
