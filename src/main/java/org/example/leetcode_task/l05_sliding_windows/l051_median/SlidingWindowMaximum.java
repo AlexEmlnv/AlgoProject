@@ -26,7 +26,7 @@ public class SlidingWindowMaximum {
             indexDeque.offerLast(i);
             // add to result
             if (i >= k - 1) {
-                // all time win first element has index wich give max value in sliding window!!
+                // all time indexDeque first element has index wich give max value in sliding window!!
                 result[i - k + 1] = nums[indexDeque.peekFirst()];
             }
         }
