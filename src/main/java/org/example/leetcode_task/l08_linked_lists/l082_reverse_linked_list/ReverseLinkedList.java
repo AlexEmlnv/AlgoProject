@@ -1,5 +1,7 @@
 package org.example.leetcode_task.l08_linked_lists.l082_reverse_linked_list;
 
+// Time Complexity :  O(n)
+// Space Complexity : O(1)
 public class ReverseLinkedList {
     public ListNode reverseList(ListNode head) {
         ListNode result = null;
