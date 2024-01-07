@@ -1,4 +1,4 @@
-import org.example.leetcode_task.l05_sliding_windows.l051_median.SlidingWindowMaximum;
+import org.example.leetcode_task.l05_sliding_windows.l051_maximum.SlidingWindowMaximum;
 import org.junit.Assert;
 import org.junit.Test;
 

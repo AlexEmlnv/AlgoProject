@@ -1,4 +1,4 @@
-package org.example.leetcode_task.l05_sliding_windows.l051_median;
+package org.example.leetcode_task.l05_sliding_windows.l051_maximum;
 
 // Time Complexity O(n*n)
 public class SlidingWindowMaxBruteForce {
