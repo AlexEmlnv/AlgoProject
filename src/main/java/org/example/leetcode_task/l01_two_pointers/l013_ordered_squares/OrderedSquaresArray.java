@@ -26,11 +26,4 @@ public class OrderedSquaresArray {
         }
         return res;
     }
-
-    public static void main(String[] args) {
-        OrderedSquaresArray array = new OrderedSquaresArray();
-        System.out.println(Arrays.toString(array.makeOrderedSquares(new int[]{-19, -2, 1, 2, 9})));
-        System.out.println(Arrays.toString(array.makeOrderedSquares(new int[]{1})));
-    }
-
 }
