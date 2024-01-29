@@ -1,6 +1,5 @@
 package org.example.leetcode_task.l01_two_pointers.l012_partition_labels;
 
-import org.example.leetcode_task.l01_two_pointers.l012_partition_labels.PartitionLabels;
 import org.junit.Assert;
 import org.junit.Test;
 
