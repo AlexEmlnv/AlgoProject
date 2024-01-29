@@ -1,6 +1,5 @@
 package org.example.leetcode_task.l01_two_pointers.l011_container_with_most_water;
 
-import org.example.leetcode_task.l01_two_pointers.l011_container_with_most_water.ContainerWithMostWater2;
 import org.junit.Assert;
 import org.junit.Test;
 
