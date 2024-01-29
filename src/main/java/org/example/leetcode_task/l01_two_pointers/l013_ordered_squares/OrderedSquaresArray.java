@@ -1,7 +1,5 @@
 package org.example.leetcode_task.l01_two_pointers.l013_ordered_squares;
 
-import java.util.Arrays;
-
 // time complexity O(n)
 // memory complexity O(n)
 public class OrderedSquaresArray {
